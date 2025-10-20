@@ -9,7 +9,7 @@ nav ul {
     margin: 0;
     padding: 0;
     background: #3498db;
-    /* NAVBAR IS NOT CENTERED YET */
+    text-align: center;
 }
 
 nav ul li {
